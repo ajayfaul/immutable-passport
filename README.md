@@ -118,5 +118,3 @@ That's it! You've successfully integrated Immutable Passport into your applicati
 [Install and initialise | Immutable Documentation](https://docs.immutable.com/docs/zkevm/products/passport/install/)
 
 [](https://hub.immutable.com/)
-
-?descriptionFromFileType=function+toLocaleUpperCase()+{+[native+code]+}+File&mimeType=application/octet-stream&fileName=Immutable+Passport+Integration.md&fileType=undefined&fileExtension=md
